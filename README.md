@@ -1,5 +1,5 @@
 # Book Search App
-<a href="https://booksearch-tc.herokuapp.com/">![Deployed App](https://img.shields.io/badge/Deployed%20App-blue.svg)</a>    <a href=./LICENSE>![License](https://img.shields.io/badge/License%3A-MIT-green.svg)</a>   
+
 
 ## Description
 Book Search is a full-stack MERN app that uses the Google Books API to let you search for any book title and returns results for the title searched. The search results are displayed with the book's title, image and description. You can signup to create a username and save your favorite books to display in your saved books page. The saved books are persistent and will still show up when you log out and return to the app.
@@ -36,16 +36,7 @@ This app was refactored from an existing, fully functional MERN app setup with a
   ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)  
 
   
-  ## Contact
-  Please visit my **[GitHub profile](https://github.com/tchestnut85/)** to check out this and other projects I've created and contributed to.
-  Contact me at **thomaschestnut00@gmail.com** with any questions or if you'd like to collaborate.
-
-  ## Links
-  - **[Deployed App](https://booksearch-tc.herokuapp.com/)**
-  - **[GitHub Repo](https://github.com/tchestnut85/book-search)**
-  - **[My Portfolio](https://tchestnut85.github.io/)**
-  - **[Connect on LinkedIn](https://www.linkedin.com/in/thomas-chestnut)**
-
+ 
   ## License
   ![License](https://img.shields.io/badge/License%3A-MIT-green.svg)    
   This app is licensed under the MIT license.
