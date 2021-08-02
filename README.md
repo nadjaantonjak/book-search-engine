@@ -1,4 +1,5 @@
 # Book Search App
+contributors - Nadja antonjak
 
 https://book-search-99.herokuapp.com/
 ## Description
